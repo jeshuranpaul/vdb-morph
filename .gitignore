@@ -1,0 +1,25 @@
+.idea/
+
+*.pyc
+
+*.pkl
+
+*.npy
+
+*.obj
+
+*.stl
+
+
+/PFI_API/temp/*.stl
+/PFI_API/uploads/
+*.sqlite3
+*.pyc
+/PFI_API/models/
+/PFI_Python/models/
+/PFI_API/static/previews/
+
+# Xcode
+/PFI_openVDBTools/Mac\ app/PFITools/Carthage/
+/PFI_openVDBTools/Mac\ app/PFITools/DerivedData/
+/PFI_openVDBTools/Mac\ app/PFITools/build/
